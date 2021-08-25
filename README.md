@@ -3,6 +3,8 @@
 ## 예시 사진
 [![self-walking_robot](http://img.youtube.com/vi/J8ql7rU-jMM/0.jpg)](https://www.youtube.com/watch?v=J8ql7rU-jMM)
 
+## Procedure
+
 ### Tracking
 
 * 사람을 인식하는데 Yolo를 사용하였다.
@@ -26,6 +28,7 @@
 
 ![ex_screenshot3](./img/3.png)
 
+## 어려웠던 점
 
 ## Limitations
 * yolo-tiny의 정확도가 높지 않아 사용자 주위에서 drone rotate을 하지 못하였다.
