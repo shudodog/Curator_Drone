@@ -1,5 +1,5 @@
 # Curator Drone
-
+**2021-1st semester**
 ## 예시 사진
 [![self-walking_robot](http://img.youtube.com/vi/J8ql7rU-jMM/0.jpg)](https://www.youtube.com/watch?v=J8ql7rU-jMM)
 
